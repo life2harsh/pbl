@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "owner":      "life2harsh",
+      "title":      "Chess",
+      "platform":   "Unknown",
+      "hoursPlayed": 0,
+      "lastPlayed": "2025-05-03",
+      "execPath":   "H:\\PBL2\\SFML-Chess\\x64\\Debug\\PBL.exe"
+    },
+    {
+      "owner":      "life2harsh",
+      "title":      "Flappy Bird",
+      "platform":   "Windows",
+      "hoursPlayed": 1,
+      "lastPlayed": "2025-04-28",
+      "execPath":   "H:\\PBL2\\FLAPPY BIRD\\x64\\Debug\\FLAPPY BIRD.exe"
+    },
+    {
+      "owner":      "life2harsh",
+      "title":      "Space Shooter",
+      "platform":   "Windows",
+      "hoursPlayed": 1,
+      "lastPlayed": "2025-04-28",
+      "execPath":   "H:\\PBL1\\x64\\Debug\\PBL1.exe"
+    },
+    {
+      "owner":      "life2harsh",
+      "title":      "Pong",
+      "platform":   "Windows",
+      "hoursPlayed": 1,
+      "lastPlayed": "2025-04-28",
+      "execPath":   "H:\\PBL2\\PongDeluxe\\x64\\Debug\\PongDeluxe.exe"
+    }
+  ]
+}
